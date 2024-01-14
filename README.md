@@ -8,7 +8,7 @@ This week's challenge will explore the biodiversity of human bellybutton bacteri
 Use the github pages link to visualize the page. To use this repository, download and open the index.html, right-click to inspect, then navigate to the console tab and paste the contents of the app.js file. You can then use the drop-down menu to visualize different samples from the Belly Button Biodiversity Project dataset. 
 
 ### Known issues
-1. despite the html containing the pathway for the app.js file, it does not automatically load the javascript upon opening.
+1. despite the html containing the pathway for the app.js file, it does not automatically load the javascript upon opening. Advice is welcome, thank you.
 2. Bubble chart colors - not all of the colors included in the code are showing up in the graph.
 
 ### References
