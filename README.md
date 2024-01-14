@@ -5,7 +5,7 @@
 This week's challenge will explore the biodiversity of human bellybutton bacteria using the dataset collected by The Belly Button Biodiversity Project. This project became a public citizen's science project where hundreds of people would participate by twirling a sterile swab in their belly buttons and submitting their sample to the project team, who would then plate and incubate the samples. The full project has been published on NC State's, The Public Science Lab: Ecology, Evolution and Biodiversity of Humans and Food. https://robdunnlab.com/projects/belly-button-biodiversity/ 
 
 ### How to Use
-To use this repository, open the index.html, right-click to inspect, then navigate to the console tab and paste the contents of the app.js file. You can then use the drop-down menu to visualize different samples from the Belly Button Biodiversity Project dataset. 
+Use the github pages link to visualize the page. To use this repository, download and open the index.html, right-click to inspect, then navigate to the console tab and paste the contents of the app.js file. You can then use the drop-down menu to visualize different samples from the Belly Button Biodiversity Project dataset. 
 
 ### Known issues
 1. despite the html containing the pathway for the app.js file, it does not automatically load the javascript upon opening.
